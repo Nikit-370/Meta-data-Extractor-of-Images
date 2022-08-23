@@ -14,4 +14,4 @@ geolocator = Nominatim(user_agent = "your email")
 ```
 
 ### Usage
-python get_meta_from_pic.py image_file
+```python get_meta_from_pic.py image_file```
